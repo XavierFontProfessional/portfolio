@@ -478,7 +478,7 @@ section{
 
 .technologies .tech-grid {
     display: flex;
-    justify-content: start;
+    justify-content: center;
     gap: 1.5rem;
     margin-top: 2rem;
     flex-wrap: wrap;
@@ -514,7 +514,7 @@ section{
 }
 
 .technologies .tech-item .tech-name {
-    font-size: 0.8rem;
+    font-size: 0.83rem;
     color: var(--black);
     box-shadow: var(--box-shadow);
     padding: 0.3rem 0.5rem;
